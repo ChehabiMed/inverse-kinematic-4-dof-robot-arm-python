@@ -1,8 +1,6 @@
 # 4 dof Robotic Arm Kinematics Visualization
 
 
-## output
-
   ![Robotic Arm](notebook_img.png)
 
 The image represent four links starting with the base link in Red to the end effector in Cyan, and also a projection point on the 2D plane.
