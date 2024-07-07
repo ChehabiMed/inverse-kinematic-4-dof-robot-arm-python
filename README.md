@@ -1,13 +1,17 @@
 # 4 dof Robotic Arm Kinematics Visualization
 
-## Files
 
-- `notebook_script.ipynb`: Main notebook script to calculate the forward and inverse kinematics and visualize the robotic arm.
+## output
 
   ![Robotic Arm](notebook_img.png)
 
 The image represent four links starting with the base link in Red to the end effector in Cyan, and also a projection point on the 2D plane.
 
+
+
+## Files
+
+- `notebook_script.ipynb`: Main notebook script to calculate the forward and inverse kinematics and visualize the robotic arm.
 
 
 ## Usage
