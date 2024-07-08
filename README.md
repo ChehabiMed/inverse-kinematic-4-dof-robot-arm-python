@@ -9,7 +9,7 @@ The image represent four links starting with the base link in Red to the end eff
 
 ## Files
 
-- `notebook_script.ipynb`: Main notebook script to calculate the forward and inverse kinematics and visualize the robotic arm.
+- `IK_4DOF.ipynb`: Main notebook script to calculate the forward and inverse kinematics and visualize the robotic arm.
 
 
 ## Usage
@@ -22,7 +22,7 @@ The image represent four links starting with the base link in Red to the end eff
 
 2. Open Jupyter Notebook and navigate to the repository directory.
 
-3. Open and run `notebook_script.ipynb` to calculate the forward and inverse kinematics and visualize the robotic arm.
+3. Open and run `IK_4DOF.ipynb` to calculate the forward and inverse kinematics and visualize the robotic arm.
 
 ## IK_4DOF.ipynb
 
