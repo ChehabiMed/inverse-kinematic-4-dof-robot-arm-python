@@ -57,7 +57,7 @@ This function creates the DH transformation matrix for a given joint. It takes t
 
 The function returns the 4x4 DH transformation matrix.
 
-To see the robotic arm in action, run the `notebook_script.ipynb`. The notebook will output the transformation matrix and plot the arm in 3D space.
+To see the robotic arm in action, run the `IK_4DOF.ipynb`. The notebook will output the transformation matrix and plot the arm in 3D space.
 
 ## License
 
