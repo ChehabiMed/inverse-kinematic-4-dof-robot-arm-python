@@ -16,15 +16,15 @@ The image represent four links starting with the base link in Red to the end eff
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/robotic-arm-kinematics.git
-    cd robotic-arm-kinematics
+    git clone https://github.com/ChehabiMed/inverse-kinematic-4-dof-robot-arm-python.git
+    cd inverse-kinematic-4-dof-robot-arm-python
     ```
 
 2. Open Jupyter Notebook and navigate to the repository directory.
 
 3. Open and run `notebook_script.ipynb` to calculate the forward and inverse kinematics and visualize the robotic arm.
 
-## notebook_script.ipynb
+## IK_4DOF.ipynb
 
 This notebook script performs the following tasks:
 
